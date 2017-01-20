@@ -1,0 +1,18 @@
+body {
+	background-color: #f8f8f8;
+}
+
+
+header {
+	color: blue;
+	font-size: 2em;
+	font-weight: 600;
+}
+
+header>ul>li {
+	display: inline-block;
+	padding: 5px 35px;
+	background: #CCD7A9;
+}
+
+
